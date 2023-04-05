@@ -57,4 +57,4 @@ N9K-2(config-if)# ip address 10.0.0.2/30
 N9K-2(config-if)# no shutdown
 ```
 
-This concludes the **Section 1: vPC Peer Base Configs**. Please continue with **Section 2: vPC Implementation**.
+This concludes the **vPC Part 1: vPC Peer Base Configs**. Please continue with **vPC Part 2: vPC Implementation**.

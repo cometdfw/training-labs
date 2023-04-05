@@ -119,4 +119,4 @@ N9K-2(config-if)# switchport access vlan 10
 N9K-2(config-if)# vpc 11
 ```
 
-This concludes the **Section 2: vPC Implementation**. Please continue with **Section 3: vPC Verification**.
+This concludes the **vPC Part 2: vPC Implementation**. Please continue with **vPC Part 3: Downstream Device Configs**.

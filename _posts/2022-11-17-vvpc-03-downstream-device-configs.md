@@ -45,4 +45,4 @@ N9K-1(config-if)# switchport mode access
 N9K-1(config-if)# switchport access vlan 11
 ```
 
-This concludes the **Section 3: Downstream Device Configs**. Please continue with **Section 4: vPC Verification**.
+This concludes the **vPC Part 3: Downstream Device Configs**. Please continue with **vPC Part 4: vPC Verification**.
