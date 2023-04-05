@@ -1,4 +1,7 @@
-# vPC Lab Overview
+---
+title: "vPC Lab Overview"
+layout: post
+---
 
 ## 1. Introduction
 This is a practice lab for the Virtual Port-Channel (vPC) feature on the Cisco Nexus switch.
