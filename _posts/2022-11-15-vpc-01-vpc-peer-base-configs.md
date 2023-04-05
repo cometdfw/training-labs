@@ -1,4 +1,7 @@
-# Section 1: vPC Peer Base Configs
+---
+title: "vPC Part 1: vPC Peer Base Configs"
+layout: post
+---
 
 > In this section, you will configure the host name and management IP address for the Nexus switches.
 

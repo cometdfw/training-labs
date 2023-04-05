@@ -1,4 +1,7 @@
-# Section 3: Downstream Device Configs
+---
+title: "vPC Part 3: Downstream Device Configs"
+layout: post
+---
 
 > In this section, you will create Port-Channel on the downstream switch.
 

@@ -1,4 +1,7 @@
-# Section 4: vPC Verification
+---
+title: "vPC Part 4: vPC Verification"
+layout: post
+---
 
 > In this section, you will verify the feature of Virtual Port-Channel (vPC) from the Nexus switches.
 

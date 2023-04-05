@@ -1,4 +1,7 @@
-# Section 2: vPC Implementation
+---
+title: "vPC Part 2: vPC Implementation"
+layout: post
+---
 
 > In this section, you will implement the feature of Virtual Port-Channel (vPC) on the Nexus switches.
 
