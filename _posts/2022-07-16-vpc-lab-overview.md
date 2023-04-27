@@ -7,7 +7,7 @@ layout: post
 This is a practice lab for the Virtual Port-Channel (vPC) feature on the Cisco Nexus switch.
 
 ## 2. vPC Lab Topology
-![lab topology](/assets/vpc-topology.png)
+![lab topology](https://cometdfw.github.io/training-labs/assets/vpc-topology.png)
 
 ## 3. Table of Contents
 [Section 1: Switch Base Configs](https://cometdfw.github.io/training-labs/vpc-01-vpc-peer-base-configs/)
